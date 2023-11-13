@@ -1,0 +1,21 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{A0EF007F-1709-4126-AD19-AAE61A6C193F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YourLibrary/Program.cs">
+    <Files>
+      <File FileName="YourLibrary/Program.cs" Line="1" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YourLibrary" selected="True">
+            <Node name="YourLibrary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.YourLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

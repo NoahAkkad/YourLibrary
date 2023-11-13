@@ -1,0 +1,14 @@
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/bin/Debug/net7.0/YourLibrary
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/bin/Debug/net7.0/YourLibrary.deps.json
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/bin/Debug/net7.0/YourLibrary.runtimeconfig.json
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/bin/Debug/net7.0/YourLibrary.dll
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/bin/Debug/net7.0/YourLibrary.pdb
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/obj/Debug/net7.0/YourLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/obj/Debug/net7.0/YourLibrary.AssemblyInfoInputs.cache
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/obj/Debug/net7.0/YourLibrary.AssemblyInfo.cs
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/obj/Debug/net7.0/YourLibrary.csproj.CoreCompileInputs.cache
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/obj/Debug/net7.0/YourLibrary.dll
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/obj/Debug/net7.0/refint/YourLibrary.dll
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/obj/Debug/net7.0/YourLibrary.pdb
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/obj/Debug/net7.0/YourLibrary.genruntimeconfig.cache
+/Users/noahakkad/Projects/YourLibrary/YourLibrary/obj/Debug/net7.0/ref/YourLibrary.dll
